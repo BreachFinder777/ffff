@@ -15,4 +15,4 @@ graph TD
     F-->G{Verdict: Malicious?}
     G-->|Yes|H[Action: Block Navigation & Warn User]
     G-->|No|I[Action: Allow Navigation to Proceed]
-    ```
+    
